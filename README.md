@@ -5,7 +5,7 @@ This program stores classroom subjects in a list and calculates the total number
 <br>
 1.Find total unique classrooms(subjects) from a list.
 <br>
-2.ANo external libraries requied.
+2.No external libraries requied.
 
 #Why use set?:
 <br>
