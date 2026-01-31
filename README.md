@@ -1,5 +1,5 @@
 # finding-total-classroom
-This program stores classroom subjects in a list and calculates the total numbers of classes by counting how many times each subjects appears (for example: java, python, c, c++
+This program stores classroom subjects in a list and calculates the total numbers of classes by counting how many times each subjects appears (for example: java, python, c, c++)
 
 #Features:
 <br>
@@ -17,7 +17,7 @@ This program stores classroom subjects in a list and calculates the total number
 <br>
 Subjects= ["java", "python", "c++", "java', "c", "c", "c++"]
 <br>
-output 4
+output: 4
 <br>
 
 
