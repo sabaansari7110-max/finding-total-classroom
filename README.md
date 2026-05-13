@@ -14,11 +14,11 @@ This program stores classroom subjects in a list and calculates the total number
 2.Makes counting easy and clean.
 
 # Example code logic:
-<br>
+```python
 Subjects= ["java", "python", "c++", "java', "c", "c", "c++"]
-<br>
+
 output: 4
-<br>
+```
 
 
 # Whar I Learned:
