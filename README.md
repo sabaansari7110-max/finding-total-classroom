@@ -23,8 +23,8 @@ output: 4
 
 # Whar I Learned:
 <br>
-1.How set() work.
+1.How set() works.
 <br>
-2.difference between list and set.
+2.Difference between list and set.
 <br>
 3. How to solve real-life problems using python basics.
